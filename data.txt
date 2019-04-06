@@ -1,0 +1,6 @@
+mark jonansson,waffle iron,80,2
+mark jonansson,blender,200,1
+mark jonansson,knife,10,4
+Nikita Smith,waffle iron,80,1
+Nikita Smith,knife,10,4
+Nikita Smith,pot,20,3
